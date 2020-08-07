@@ -1,0 +1,49 @@
+nav ul {
+  list-style-type: none;
+  background: red;
+  overflow: auto;
+  margin-top: 0;
+  padding: 2%;
+
+}
+
+nav ul li {
+
+  float: left;
+  margin-left: 2%;
+
+}
+
+footer {
+  background-color: blue;
+  margin-bottom: -400%;
+}
+
+.product {
+  border: 5px solid orange;
+    width: 50%;
+    list-style-type: none;
+margin-left: 25%;
+margin-right: 25%;
+margin-top: 2%;
+
+}
+
+.container {
+
+  margin-top: 5%;
+}
+
+.data-container {
+  background-color: green;
+  width: 75%;
+  float: right;
+}
+
+.select-container {
+ width: 20%;
+ float: left;
+ border: 2px solid black;
+ padding-bottom: 30%;
+
+}
